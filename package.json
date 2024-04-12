@@ -1,0 +1,13 @@
+{
+    "name": "com.callbacktimer",
+    "displayName": "Callback Timer",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "dependencies": {
+    },
+    "description": "create callbacks on a timer",
+    "author": {
+      "name": "Root"
+    },
+    "type": "tool"
+  }
